@@ -39,7 +39,7 @@
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://inuyasha021.github.io/images/iiif/5c2886fc3b814d2fb97f11fc0c7868b7/info.json",
+                    "id": "https://inuyasha021.github.io/images/iiif/5c2886fc3b814d2fb97f11fc0c7868b7",
                     "type": "ImageService3",
                     "profile": "level0"
                   }
@@ -81,7 +81,7 @@
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://inuyasha021.github.io/images/iiif/694692d6802a46a7879619a815edc214/info.json",
+                    "id": "https://inuyasha021.github.io/images/iiif/694692d6802a46a7879619a815edc214",
                     "type": "ImageService3",
                     "profile": "level0"
                   }
@@ -123,7 +123,7 @@
                 "format": "image/jpeg",
                 "service": [
                   {
-                    "id": "https://inuyasha021.github.io/images/iiif/6ef6e82117d4415684f76d5c702f30ad/info.json",
+                    "id": "https://inuyasha021.github.io/images/iiif/6ef6e82117d4415684f76d5c702f30ad",
                     "type": "ImageService3",
                     "profile": "level0"
                   }
