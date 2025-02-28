@@ -7,10 +7,6 @@
       "Test Manifest"
     ]
   },
-  "metadata": null,
-  "summary": null,
-  "thumbnail": null,
-  "provider": null,
   "items": [
     {
       "id": "https://inuyasha021.github.io/manifests/37c3429548234049ae202912869a1290/canvas/0",
@@ -51,10 +47,7 @@
             }
           ]
         }
-      ],
-      "annotations": null
+      ]
     }
-  ],
-  "structures": null,
-  "annotations": null
+  ]
 }
