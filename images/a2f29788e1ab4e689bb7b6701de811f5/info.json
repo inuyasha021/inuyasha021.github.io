@@ -1,0 +1,1 @@
+{"width":954,"height":663,"@context":"http://iiif.io/api/image/3/context.json","id":"http://localhost:8501/app/static/images/a2f29788e1ab4e689bb7b6701de811f5","type":"ImageService3","protocol":"http://iiif.io/api/image","profile":["level0"],"tiles":[{"width":954,"scaleFactors":[1,2]}]}
