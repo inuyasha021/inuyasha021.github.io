@@ -1,0 +1,1 @@
+{"width":500,"height":354,"@context":"http://iiif.io/api/image/3/context.json","id":"{'base_url': 'https://inuyasha021.github.io'}/images/5e4b597897e642ad955e7f8ce5a9954f","type":"ImageService3","protocol":"http://iiif.io/api/image","profile":["level0"],"tiles":[{"width":500,"scaleFactors":[1,2,4,8,16]}]}
